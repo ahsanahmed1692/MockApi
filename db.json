@@ -2,27 +2,23 @@
 	"items": [
 		{
 			"id": 1,
-			"name": "bicycle",
-			"price": 18.00,
-			"quantity": 25.00
+			"name": "Gas chromatograph",
+			"price": 115000.00
 		},
 		{
 			"id": 2,
-			"name": "cricket bat",
-			"price": 18.00,
-			"quantity": 25.00
+			"name": "Liquid chromatograph",
+			"price": 50000.00
 		},
 		{
 			"id": 3,
-			"name": "football",
-			"price": 18.00,
-			"quantity": 25.00
+			"name": "Gas chamber",
+			"price": 20000.00
 		},
 		{
 			"id": 4,
-			"name": "wickets",
-			"price": 18.00,
-			"quantity": 25.00
+			"name": "Plexi glass liquid chamber",
+			"price": 30000.00
 		}
 	],
 
