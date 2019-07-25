@@ -24,5 +24,26 @@
 			"price": 18.00,
 			"quantity": 25.00
 		}
+	],
+
+	"customers": [
+		{
+			"id": 1,
+			"name": "Technology Links",
+			"Address": "4th floor, Rimpa plaza",
+			"email": "info@technologylinks.com"
+		},
+		{
+			"id": 2,
+			"name": "Unilever",
+			"Address": "Alcop house, E-5 central commercial area, PECHS block 6",
+			"email": "info@unilever.com"
+		},
+		{
+			"id": 3,
+			"name": "Reckett Benckiser",
+			"Address": "Reckett tower, DHA phase 5, Karachi",
+			"email": "info@rb.com"
+		}
 	]
 }
