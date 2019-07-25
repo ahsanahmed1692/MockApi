@@ -1,0 +1,28 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"name": "bicycle",
+			"price": 18.00,
+			"quantity": 25.00
+		},
+		{
+			"id": 2,
+			"name": "cricket bat",
+			"price": 18.00,
+			"quantity": 25.00
+		},
+		{
+			"id": 3,
+			"name": "football",
+			"price": 18.00,
+			"quantity": 25.00
+		},
+		{
+			"id": 4,
+			"name": "wickets",
+			"price": 18.00,
+			"quantity": 25.00
+		}
+	]
+}
